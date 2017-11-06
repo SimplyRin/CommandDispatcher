@@ -13,6 +13,10 @@ Bukkit と BungeeCord 両方の plugins フォルダーにこのプラグイン�
 
 製作者に送信されるメッセージ: "This server has introduced CommandDispatcher you created."
 
+# Command
+
+/b-command <command> : 指定されたコマンドを BungeeCord に送信します。
+
 # Permission
 
 cmddispatcher.command: /b-command の使用

@@ -1,0 +1,9 @@
+main: net.simplyrin.bungeecommanddispatcher.Spigot
+name: CommandDispatcher
+version: 1.0.0
+author: SimplyRin
+commands:
+  b-command:
+    description: "Send a command from Bukkit to BungeeCord"
+    usage: "/b-command <cmd>"
+    permission: cmddispatcher.command

@@ -23,4 +23,4 @@ cmddispatcher.command: /b-command の使用
 
 # Download
 
-ダウンロードはこちら: <a href="https://goo.gl/LaoscS">CommandDispatcher v1.0.0<a/><br>
+ダウンロードはこちら: <a href="https://goo.gl/LaoscS">CommandDispatcher v1.0.0.jar<a/><br>

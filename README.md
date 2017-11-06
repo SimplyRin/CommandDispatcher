@@ -11,7 +11,7 @@ Bukkit と BungeeCord 両方の plugins フォルダーにこのプラグイン�
 
 英語はわからないので Google 翻訳を使いました。許してね。
 
-"This server has introduced CommandDispatcher you created."
+製作者に送信されるメッセージ: "This server has introduced CommandDispatcher you created."
 
 # Permission
 
